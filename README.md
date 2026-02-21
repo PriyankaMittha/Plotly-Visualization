@@ -1,81 +1,93 @@
-📊 Plotly Visualization Lab
+# 📊 Plotly Visualization Lab
 
-This repository contains practical examples and mini-projects using Plotly for interactive data visualization in Python.
+A hands-on collection of interactive data visualizations built using **Plotly in Python**.  
+This repository covers fundamental to advanced visualization techniques with real-world datasets.
 
-Plotly is a powerful visualization library that helps create dynamic, interactive, and web-ready charts.
+Plotly helps create interactive, web-ready, and highly customizable charts for data analysis and dashboards.
 
-🚀 About Plotly
+---
 
-Plotly is an open-source graphing library that supports:
+## 🚀 About Plotly
 
-Interactive charts
+Plotly is a powerful open-source visualization library that allows you to:
 
-Zooming and hovering
+- Create interactive charts
+- Add hover effects and zoom functionality
+- Build 3D visualizations
+- Export visualizations as HTML
+- Integrate with Dash for web applications
 
-3D visualizations
+---
 
-Dash integration for web apps
+## 📂 Repository Structure
 
-Export to HTML
+    Plotly-Visualization-Lab
+    │
+    ├── 01_Line_Plots
+    ├── 02_Bar_Charts
+    ├── 03_Scatter_Plots
+    ├── 04_Pie_Charts
+    ├── 05_Histograms
+    ├── 06_Box_Plots
+    ├── 07_3D_Plots
+    ├── 08_Subplots
+    ├── 09_Styling_Customization
+    └── 10_Mini_Projects
 
-📂 Repository Structure
-📁 Plotly-Visualization-Lab
-│
-├── Line_Plots
-├── Bar_Charts
-├── Scatter_Plots
-├── Pie_Charts
-├── Histograms
-├── 3D_Plots
-├── Subplots
-├── Dash_Apps (Optional)
-└── Mini_Projects
-📌 Topics Covered
+---
 
-✅ Line Charts
+## 📌 Topics Covered
 
-✅ Bar Charts
+✔ Line Charts  
+✔ Bar Charts  
+✔ Scatter Plots  
+✔ Pie Charts  
+✔ Histograms  
+✔ Box Plots  
+✔ 3D Scatter & Surface Plots  
+✔ Subplots  
+✔ Layout & Styling  
+✔ Real-world Dataset Visualizations  
 
-✅ Scatter Plots
+---
 
-✅ Pie Charts
+## 🛠️ Installation
 
-✅ Histograms
+Install Plotly using pip:
 
-✅ Box Plots
+    pip install plotly
 
-✅ 3D Surface & Scatter Plots
+If you are using Jupyter Notebook:
 
-✅ Subplots
+    pip install notebook
 
-✅ Custom Styling
+---
 
-✅ Real-world Dataset Visualization
+## 🎯 Learning Outcomes
 
+By working on this repository, you will:
 
-🎯 Learning Outcomes
+- Understand interactive visualization concepts
+- Learn how to customize Plotly charts
+- Build dashboard-ready visualizations
+- Strengthen your Data Analyst / Data Science portfolio
 
-By working through this repository, you will:
+---
 
-Understand interactive data visualization
+## 📌 Future Enhancements
 
-Learn how to build professional dashboards
+- Add Dash Web Applications  
+- Add Real-World Business Case Studies  
+- Deploy interactive apps  
+- Add Data Cleaning + Visualization workflow  
 
-Create dynamic plots for data analysis
+---
 
-Prepare for Data Analyst / Data Scientist roles
+## 👩‍💻 Author
 
-📌 Future Improvements
+**Priyanka Mittha**  
+MCA Student | Data Enthusiast  
 
-Add Dash dashboard projects
+GitHub: https://github.com/PriyankaMittha  
 
-Add real-world datasets
-
-Deploy interactive apps
-
-👩‍💻 Author
-
-Priyanka Mittha
-MCA Student | Python Developer | Data Enthusiast
-
-GitHub: https://github.com/PriyankaMittha
+---
